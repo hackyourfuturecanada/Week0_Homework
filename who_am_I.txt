@@ -1,0 +1,3 @@
+Fatih Inan
+
+My goal is to become a full stack developer expert in React and Node.js
